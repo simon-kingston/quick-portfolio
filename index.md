@@ -1,4 +1,4 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
@@ -28,5 +28,5 @@
 ---
 
 
-
+### Publications
 
