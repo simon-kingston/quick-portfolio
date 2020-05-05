@@ -1,26 +1,15 @@
-## Data Science Portfolio (Under Construction)
+## Portfolio (Under Construction)
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NI Town Travelling Salesman Problem](https://github.com/simon-kingston/NI-Towns-TSP)
+<img src="images/northern_ireland_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+[2019 F1 Standings](https://github.com/simon-kingston/2019-FIA-f1-World-Championship)
+<img src="images/f1_thumbnail.jpg?raw=true"/>
 
 ---
 
