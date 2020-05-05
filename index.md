@@ -30,5 +30,5 @@
 ---
 
 ### Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling
-[Hyper-heuristics for Solving a Multi-objective Examination Timetabling Problem](https://www.researchgate.net/publication/337306943_Hyper-heuristics_for_Solving_a_Multi-objective_Examination_Timetabling_Problem)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hyper-heuristics for Solving a Multi-objective Examination Timetabling Problem](https://scholar.google.com/citations?hl=en&user=s4xrLH0AAAAJ)
+<img src="images/publication_thumbnail.jpg?raw=true"/>
