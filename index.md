@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science 
+### Projects 
 
 [NI Town Travelling Salesman Problem](https://github.com/simon-kingston/NI-Towns-TSP)
 <img src="images/northern_ireland_thumbnail.jpg?raw=true"/>
