@@ -1,8 +1,13 @@
-## Portfolio (Under Construction)
+## Portfolio 
 
 ---
 
-### Projects 
+### Data Science 
+
+
+---
+
+### Side Projects 
 
 [NI Town Travelling Salesman Problem](https://github.com/simon-kingston/NI-Towns-TSP)
 <img src="images/northern_ireland_thumbnail.jpg?raw=true"/>
@@ -17,7 +22,5 @@
 ### Publications
 
 ---
-
-### Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling
 [Hyper-heuristics for Solving a Multi-objective Examination Timetabling Problem](https://scholar.google.com/citations?hl=en&user=s4xrLH0AAAAJ)
 <img src="images/publication_thumbnail.jpg?raw=true"/>
