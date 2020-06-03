@@ -4,7 +4,6 @@
 
 ### Data Science 
 
-
 ---
 
 ### Side Projects 
@@ -17,7 +16,6 @@
 <img src="images/f1_thumbnail.jpg?raw=true"/>
 
 ---
-
 
 ### Publications
 
